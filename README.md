@@ -1,16 +1,23 @@
-### Hi there 👋
+### WELLCOME!  😄 I am Josean 🤖 Full Stack Developer 💻
 
-<!--
-**Jo5ean/jo5ean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am fulfilling the dream of entering the IT world. Currently finishing my studies at Henry, an intensive bootcamp of more than 800 hours of coding. I am passionate about learning, especially everything related to programming and technologies in general.
+Fully trust me and my skills, I will be an excellent Full Stack Web Developer. 🚀
 
-Here are some ideas to get you started:
+🧩 My Tech Skills:
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png
+📌 Algunos Proyectos
+Recipe App
+📌 Desarrollado para el Bootcamp Henry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Technologias:
+
+React - Redux - NodeJS- Express - PostgreSQL - CSS Puro
+
+
+
+
+
+Sobre mi
+💌 Contactame :
+LinkedIn
+josean.urbani@gmail.com
