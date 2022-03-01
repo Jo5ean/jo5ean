@@ -1,7 +1,7 @@
-![Hi, I'm Josean](https://github.com/Jo5ean/Jo5ean/blob/main/assets/giphy.gif)
+<code><img width="100%" src="https://github.com/Jo5ean/Jo5ean/blob/main/assets/giphy.gif"></code>
 
 <h1 align="center"><strong>
-Full Stack Developer (reemplazar con icono)
+Hola soy Josean! <code><img src="https://github.com/Jo5ean/Jo5ean/blob/main/assets/waving-hi.gif"></code>  Full Stack Developer 💻
 </strong></h1>
 <!-- //removemos espacios no deseados -->
 &nbsp;&nbsp; 
