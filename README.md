@@ -1,6 +1,6 @@
 <code><img width="100%" height="300rem" src="https://github.com/Jo5ean/Jo5ean/blob/main/assets/giphy.gif"></code>
 
-<h1 align="center"><strong> :hand: I'm Josean!, Full Stack Developer
+<h1 align="center"><strong> :hand: I am Josean!, Full Stack Developer
  <code><img width="10%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></code></strong></h1>
 <!-- //removemos espacios no deseados -->
 &nbsp;&nbsp; 
